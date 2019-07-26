@@ -9,7 +9,7 @@
 [![Gitter chat](https://badges.gitter.im/AR-js/Lobby.png)](https://gitter.im/AR-js/Lobby)
 <span class="badge-patreon"><a href="https://patreon.com/jerome_etienne" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 [![Twitter Follow](https://img.shields.io/twitter/follow/jerome_etienne.svg?style=plastic&label=Twitter&style=plastic)](https://twitter.com/jerome_etienne)
-
+*********************************************************
 I am focusing hard on making AR for the web a reality.
 This repository is where I publish the code.
 Contact me anytime [@jerome_etienne](https://twitter.com/jerome_etienne).
