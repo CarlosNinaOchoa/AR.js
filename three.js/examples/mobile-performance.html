@@ -149,13 +149,14 @@
 	arWorldRoot.add( mesh );
 
 	//Addin a GLtf model
+	/*
 	const gltfLoader = new THREE.GLTFLoader();
   const url = THREEx.ArToolkitContext.baseURL + '../data/data/duck.gltf';
   gltfLoader.load(url, (gltf) => {
     const root = gltf.scene;
     scene.add(root);
     ...
-  }
+  }*/
 
 	onRenderFcts.push(function(){
 		mesh.rotation.x += 0.1
